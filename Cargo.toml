@@ -1,0 +1,9 @@
+[package]
+name = "daggerfall-bevy"
+license = "GPL-3.0-or-later"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.16.1"
+clap = "4.5.48"
